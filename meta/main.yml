@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: odoo_role
-  author: Daniel
+  role_name: odoo_role_riane
+  author: Driss Riane
   description: Ansible odoo role
-  company: ICGROUP
+  company: nane
