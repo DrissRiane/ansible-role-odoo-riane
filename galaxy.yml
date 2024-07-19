@@ -1,0 +1,18 @@
+---
+namespace: community
+name: odoo-role-drissRiane
+version: 1.0.0
+readme: README.md
+authors:
+  - Driss Riane
+description: Installation de postgres et odoo
+license_file: BSD
+tags:
+  - v1
+repository: https://github.com/DrissRiane/ansible-Role-driss-Riane.git
+documentation: https://github.com/DrissRiane/ansible-Role-driss-Riane.git
+homepage: https://github.com/DrissRiane/ansible-Role-driss-Riane.git
+issues: https://github.com/DrissRiane/ansible-Role-driss-Riane.git
+build_ignore:
+  - .gitignore
+ 
